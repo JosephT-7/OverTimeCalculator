@@ -1,10 +1,9 @@
 import java.util.Scanner;
-import java.util.InputMismatchException;
 
 public class Main {
 
     public static Scanner scanner = new Scanner(System.in);
-    static float payRate,otHours;
+    public static float payRate,otHours;
 
     public static void main(String[] args) {
 
